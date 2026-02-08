@@ -1,7 +1,5 @@
 # FitFlow Backend
 
-Backend API for FitFlow AI Fitness Trainer application.
-
 ## Setup
 
 1. Install dependencies:
